@@ -1,51 +1,29 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Musica: Criando musicas com IAs generativas
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Essa musica oferece um poasseio rapido pela criacao de musicas atraves de IAs generativas e asua influencia no mundo da musica 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Microsoft Coplit para a criacao da letra da musica
+SunAi para aelboracao do ritmo e criacao da canca atraves da letra gerada pelo Copilot
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O Microsoft Copilot foi utilizado para  a geracao da letra da musica enquanto que o SunAI foi utiulizada para compor o estilo musica pedido atraves da letra gerada pelo Copilot
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+A musica gerada foi um estilo musical do tipo pop cuja letra refenci a uniao e amizade do trbalho entre uma contadora e uma advogada que atuam juntas em um memso setor d enegocio.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+O projeto destacou a versatilidade das IAs Generativas na criação de conteúdo auditivo, abrindo novos caminhos para a produção de mídia digital. Destaco tambem a capacidade de qualquewr pessoa se tornar produtor musical sem ter conheicmentos avancados em musica
+
 
 ### Exemplos e Insigths
+- [Musica] (https://github.com/cdaguiar23/lab-natty-or-not/blob/67929f5e66910b0e9d67f1e97a739358c48138cb/exemplos/Dupla%20Imbat%C3%ADvel%20da%20Camara.mp3)
+  
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
 ## Links Interessantes
+[https://copilot.microsoft.com/)
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+[https://suno.com/)
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
